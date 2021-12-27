@@ -1,0 +1,4 @@
+Au démarrage de l'application
+une fiche artiste est visible
+Au clic sur le bouton +
+une autre fiche apparaît
